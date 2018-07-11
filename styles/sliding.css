@@ -1,0 +1,15 @@
+#container{
+	height: 480px;
+	margin: 10px auto;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	overflow: hidden;
+	position: relative;
+}
+
+#container img{
+	position: absolute;
+	display: block;
+	left: 0;
+	border-left: 1ps solid #CCCCCC;
+}
